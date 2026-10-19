@@ -1,0 +1,4 @@
+# Copy to local.properties; keep the real values out of Git.
+# Android Studio configures sdk.dir for your computer.
+SUPABASE_URL=https://your-project.supabase.co
+SUPABASE_PUBLISHABLE_KEY=your-publishable-key

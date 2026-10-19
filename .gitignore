@@ -1,0 +1,32 @@
+# Local configuration and credentials
+local.properties
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+google-services.json
+# Android and IDE output
+.gradle/
+.kotlin/
+.idea/
+**/build/
+*.iml
+.externalNativeBuild/
+.cxx/
+.DS_Store
+# Local field data and backups
+.local-backups/
+migration-backups/
+ui-backups/
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+*.tar
+*.zip
+*.apk
+*.aab
+*.log
+node_modules/
